@@ -165,12 +165,17 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: left;
 
 }
 
 .throw {
     align-self: flex-end;
     font-weight: 700;
+    font-style: normal;
 }
 
 .three {
